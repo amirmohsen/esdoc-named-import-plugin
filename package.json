@@ -1,0 +1,28 @@
+{
+  "name": "esdoc-named-import-plugin",
+  "version": "0.0.0",
+  "repository": "https://github.com/amirmohsen/esdoc-named-import-plugin",
+  "description": "A named import plugin for ESDoc",
+  "main": "src/ESDocNamedImportPlugin.js",
+  "keywords": [
+    "flexverse",
+    "esdoc",
+    "named",
+    "import",
+    "plugin",
+    "documentation",
+    "doc"
+  ],
+  "author": {
+    "name": "Amir Abdolrazaghi",
+    "email": "amir@flexverse.tech"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amirmohsen/esdoc-named-import-plugin/issues"
+  },
+  "homepage": "https://github.com/amirmohsen/esdoc-named-import-plugin#readme",
+  "engines": {
+    "node": ">= 6.0.0"
+  }
+}
